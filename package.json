@@ -1,0 +1,10 @@
+{
+  "name": "nomad_practice-block-chain-typescript",
+  "version": "1.0.0",
+  "author": "Chang Yeol Lee",
+  "license": "Chang Yeol Lee",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
